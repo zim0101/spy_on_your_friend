@@ -2,7 +2,7 @@ EasyProcess==0.3
 entrypoint2==0.2.1
 jeepney==0.4.3
 mss==6.0.0
-Pillow==7.2.0
+Pillow==9.0.1
 pkg-resources==0.0.0
 pyscreenshot==2.2
 python-crontab==2.5.1
